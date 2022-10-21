@@ -1,4 +1,5 @@
-### Hi Sam Lam here 👋
+### <div align="center"> Hi Sam Lam here 👋 </div>
+<p align="center">A System Engineering student from CUHK, learning for web development </p>
 
 ## :books::Languages and Framework
 <p align="center">
