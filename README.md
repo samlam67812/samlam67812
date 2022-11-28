@@ -25,6 +25,14 @@
             alt="connect with me on LinkedIn"></a>
 </p>
 
+
+  
+
+<!--
+**samlam67812/samlam67812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
 ## 🌱 Some Projects that I have done
 
 <p align="left">
@@ -46,12 +54,7 @@
   <img src="https://img.shields.io/badge/-Stripe--Clone-ff69b4">
   </a>
 </p>
-  
 
-<!--
-**samlam67812/samlam67812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
