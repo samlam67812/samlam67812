@@ -1,7 +1,7 @@
-### <div align="center"> Hi Sam Lam here 👋 </div>
+### <div align="center"> Hi here 👋 </div>
 <p align="center">A System Engineering student from CUHK, learning for web development </p>
 
-## :books::Languages and Framework
+## books::Languages and Framework
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
