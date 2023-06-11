@@ -24,12 +24,14 @@
         <img src="https://img.shields.io/badge/LinkedIn-blue"
             alt="connect with me on LinkedIn"></a>
 </p>
-## 🌱 Some Projects that I have done
 
-[SocialCool](https://socialcool-50ddf.web.app/)
+## 🌱  Some Projects that I have done
+
+[SocialCool](https://socialcool-50ddf.web.app/) - a platform that allow users to post and share
 <br /> 
 [Repo](https://github.com/samlam67812/SocialCool)
 
+![alt text](https://github.com/samlam67812/samlam67812/blob/main/images/socialCoolExample.png?raw=true)
 
   
 
